@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/cmillan/Library/Mobile Documents/com~apple~CloudDocs/Dev/c/cmake-cookbook/recipe-04/message.c
+message.h
+/Users/cmillan/Library/Mobile Documents/com~apple~CloudDocs/Dev/c/cmake-cookbook/recipe-04/message.h
+
+/Users/cmillan/Library/Mobile Documents/com~apple~CloudDocs/Dev/c/cmake-cookbook/recipe-04/message.h
+
